@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Budget_planning</string>
+    <string name="your_category">Ваши категориии:</string>
+    <string name="no_cat_yet">Ещё нет категорий</string>
+    <string name="add_category">Добавить категорию</string>
+    <string name="enter_cat_name">Введите название категории</string>
+    <string name="create">Создать</string>
+    <string name="add_budg">Добавить бюджет</string>
+    <string name="add_spend">Добавить расход</string>
+    <string name="change_budg">Изменить бюджет</string>
+    <string name="enter_budget">Введите бюджет</string>
+</resources>
